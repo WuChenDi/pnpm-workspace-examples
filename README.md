@@ -2,7 +2,9 @@
 
 Example code showing how to create a multi-package mono repo using pnpm.
 
-[blog](https://www.codecapers.com.au/pnpm-workspaces/)
+- [pnpm](https://pnpm.io/)
+
+- [blog](https://www.codecapers.com.au/pnpm-workspaces/)
 
 ## License
 
