@@ -1,2 +1,9 @@
 # pnpm-workspace-examples
-Example of creating a workspace code using pnpm
+
+Example code showing how to create a multi-package mono repo using pnpm.
+
+[blog](https://www.codecapers.com.au/pnpm-workspaces/)
+
+## License
+
+This is a fork from [pnpm-workspace-examples](https://github.com/ashleydavis/pnpm-workspace-examples)
