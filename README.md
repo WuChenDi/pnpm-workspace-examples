@@ -10,3 +10,5 @@ Example code showing how to create a multi-package mono repo using pnpm.
 ## License
 
 This is a fork from [pnpm-workspace-examples](https://github.com/ashleydavis/pnpm-workspace-examples)
+
+MIT
